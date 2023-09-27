@@ -4,7 +4,6 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
-Access the Java Spring Backend [here]() <img src="https://user-images.githubusercontent.com/79333175/172686002-35314c56-c2fb-4d93-a598-fc82402d14ac.png" width="30" height="35">
 
 https://user-images.githubusercontent.com/79333175/172681874-9d223575-07eb-43e8-a06b-551d5178a382.mp4
 
